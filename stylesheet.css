@@ -1,0 +1,26 @@
+
+
+body {
+margin: 0;
+/*background-color: #CCC;*/
+font-family: verdana,arial,serif;
+font-size: 0.8em;
+}
+
+#header {
+margin: auto;
+width: 1004px;
+height: 210px;
+background: url(/img/l.jpg) -176px 0;
+}
+
+#hidden {
+    display: inline;
+}
+
+#hidden:hover{
+    display: none;
+}
+body:hover body{
+    display: none;
+}
